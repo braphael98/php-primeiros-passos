@@ -3,7 +3,7 @@
 
 $idade = 21;
 $salario = 1000.50;
-$divisao = 10/3;
+$divisao = 10/2;
 $texto = "Banana";
 $verdadeiro = true;
 $falso = false;
