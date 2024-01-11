@@ -2,8 +2,8 @@
 //Desafio do IMC = peso/(altura x altura)
 echo "CALCULO IMC" . PHP_EOL;
 $imc;
-$peso = 60;
-$altura = 1.90;
+$peso = 64;
+$altura = 1.70;
 
 $imc = 60 / ($altura * $altura);
 echo "Seu imc é de $imc e está ";
